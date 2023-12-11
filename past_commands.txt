@@ -1,0 +1,15 @@
+clear
+activities
+clear
+exit
+warp includ
+warp include
+clear
+warp jkadgsasd
+clear
+exit
+PEEK
+peek
+warp include
+warp include
+warp ..
