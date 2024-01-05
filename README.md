@@ -14,6 +14,16 @@
 
 ##### proclore: Gives the status of a process given its pid
 
+##### iMan : Gives details of a given command (if available). For example : `iMan ls`
+
+##### The shell has pipelining and I/O redirection implemented in itself. For example : `ls | grep a > b.txt`
+
+##### The shell can also run both foreground and background processes. For example : `ls &`
+
+##### Activities: This command gives status of all the running processes.
+
+##### Commands such as seek, peek, ls has various flags implemented such as -a, -l, etc. 
+
 
 
 # Assumptions
